@@ -1,0 +1,29 @@
+@media (max-width: 991px){
+    body{
+        background: #275e88;
+    }
+    .Cbox{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas: "form" "info" "map";
+    }
+    .map{
+        min-height: 300px;
+    }
+    .formBox .row50{
+        display: flex;
+        gap: 0;
+        flex-direction: column;
+
+    }
+    .inputBox{
+        width: 100%;
+    }
+    .contactS{
+        padding: 30px;
+    }
+    .map{
+        min-height: 300px;
+        padding: 0;
+    }
+}
