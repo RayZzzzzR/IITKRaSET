@@ -228,7 +228,6 @@ section{
 }
 .profile img{
     width: 525px;
-    min-height: 300px;
     object-fit: cover;
     vertical-align: middle;
 }
@@ -364,6 +363,9 @@ p{
         object-fit: cover;
         vertical-align: middle;
     }
+	.intro h1 a{
+		font-size:3.25rem;
+	}
 }
 @media (max-width:380px){
     html{
