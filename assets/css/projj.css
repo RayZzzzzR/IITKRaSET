@@ -365,6 +365,7 @@ p{
     }
 	.intro h1 a{
 		font-size:3.25rem;
+		line-height:4.25rem;
 	}
 }
 @media (max-width:380px){
