@@ -77,6 +77,7 @@ header .logo img{
     cursor: pointer;
     color: white;
     transition: all 0.4s ease-out;
+    font-size:40px;
 }
 .intro h1 a:hover{
     color: #f7941d;
