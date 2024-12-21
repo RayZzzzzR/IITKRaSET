@@ -539,7 +539,7 @@ footer p{
     content: '';
     position: absolute;
     bottom: -3px;
-    width: 115px;
+    width: 130px;
     height: 3px;
     background: #f7941d;
 }
@@ -563,9 +563,9 @@ footer p{
 }
 .txt{
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.7rem;
     color: white;
-    font-weight: 600;
+    font-weight: 500;
     font-family: Poppins,Open Sans,sans-serif;
     margin-top: 2rem;
 }
